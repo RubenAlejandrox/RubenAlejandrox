@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/d95da8e1-3bb4-4ff0-90d6-192804c6ee01)
+
 <h1 align="center">Hi 👋, I'm Ruben Alejandro Nolasco Ruiz</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
