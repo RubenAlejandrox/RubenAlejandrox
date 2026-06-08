@@ -1,7 +1,7 @@
-![Image](https://github.com/user-attachments/assets/d95da8e1-3bb4-4ff0-90d6-192804c6ee01)
+<img width="1889" height="944" alt="Image" src="https://github.com/user-attachments/assets/b5c3e13e-c9ae-4ebe-8549-6bad0d7c026e" />
 
 <h1 align="center">Hi 👋, I'm Ruben Alejandro Nolasco Ruiz</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">A passionate developer from México</h3>
 
 ## 🌐 My Socials Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruben.a_nolasco) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@alejandro24tm20) 
